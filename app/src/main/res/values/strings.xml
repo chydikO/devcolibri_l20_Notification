@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">devcolibri_l20_Notification</string>
+    <string name="finishactivity_textview">FinishActivity TextView</string>
+</resources>
